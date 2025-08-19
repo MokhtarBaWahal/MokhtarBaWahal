@@ -8,7 +8,7 @@ I'm a passionate Full-stack Developer currently working at MED for Digital Creat
 
 - 🌍 **Location:** Belgium  
 - 🎓 **Education:** Bachelor's in Computer Science  
-- 💼 **Current Role:** Full-stack Developer at MED for Digital Creativity  
+- 💼 **Current Role:** ex ull-stack Developer at MED for Digital Creativity  
 - 🌱 **Learning Focus:** Exploring **AI, Software Engineering, and Business** to build innovative and impactful solutions.  
 
 ## 🛠️ Technologies & Tools  
